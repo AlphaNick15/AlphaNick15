@@ -4,7 +4,15 @@ Hi 👋 My name is Nikhil Jha
 Software Engineer
 -----------------
 
-I am a Postgraduate student at Pes Modern college of art science and commerce. My studies have provided me with broad proficiency in the use of various methods, tools, software packages and techniques. I also work as a software engineer with Larsen and Toubro Infotech. I have developed sound communication and technical skills while delivering to large audiences at Company. I am eager to secure challenging roles in software development as such, I am confident that I can make an instant impact. I'm always trying to grow and learn something new. I lose track of time when I'm playing games, studying or simply reading a good book.
+I am a Postgraduate student at Pes Modern college of art science and commerce. 
+My studies have provided me with broad proficiency in the use of various methods, tools, software packages and techniques. 
+
+I also work as a software engineer with Larsen and Toubro Infotech. 
+I have developed sound communication and technical skills while delivering to large audiences at Company. 
+I am eager to secure challenging roles in software development as such, I am confident that I can make an instant impact. 
+I'm always trying to grow and learn something new. 
+
+I lose track of time when I'm playing games, studying or simply reading a good book.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nikhiljha.9922@gmail.com](mailto:nikhiljha.9922@gmail.com)
