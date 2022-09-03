@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikhil Jha
+Hi 👋 I am Nikhil Jha
 ===========================
 
 Software Engineer
